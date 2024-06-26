@@ -122,7 +122,7 @@ function Chart() {
   return (
     <div style={{ display: "flex" }}>
       <div>
-        maydoni
+        aholisi
         <div id="chart">
           <ReactApexChart
             series={data2.series}
@@ -134,7 +134,7 @@ function Chart() {
         </div>
       </div>
       <div>
-        aholisi
+        maydoni
         <div id="chart">
           <ReactApexChart
             series={data.series}
